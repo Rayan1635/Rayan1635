@@ -5,7 +5,7 @@
 ───────────────────────────────────────────────────────────────────────────────────
 
 <a href="https://github.com/Rayan1635">
-<img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2300D5B2&lines=Hey+!+I'm+Rayan1635.+%F0%9F%9A%80;Also+known+as+%E2%81%B6%E2%81%B6%E2%81%B7ekipier.+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F">
+<img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2300EBC4&lines=Hey+!+I'm+Rayan1635.+%F0%9F%9A%80;Also+known+as+%E2%81%B6%E2%81%B6%E2%81%B7ekipier.+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F">
 <a>
 
 ## 🌎 **About Me**
