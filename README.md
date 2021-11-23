@@ -13,9 +13,14 @@
 - 📚 I'm currently living in Canada ✈
 - 🔭 I’m currently working on [Nothing](https://www.google.com) 🤖
 - 🌱 I’m currently learning everything 🐱‍👤
-- 📫 How to reach me:
-[![Discord](https://img.shields.io/badge/discord-9cf.svg?&?style=social&logo=discord&logoColor=black)](https://discord.com/users/790408187563999292/) 
-[⁶⁶⁷ekipier Ψ#9326](https://discord.c99.nl/widget/theme-3/790408187563999292.png) 🔌
+- 📫 How to reach me :
+[![Discord](https://img.shields.io/badge/discord-9cf.svg?&?style=social&logo=discord&logoColor=black)](https://discord.com/users/790408187563999292/) 🔌
+ 
+ <div align="left">
+   <a href="https://github.com/Rayan1635" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/790408187563999292">
+   </a>
+</div>
  
 ## 💻 **Languages & Tools**
 
