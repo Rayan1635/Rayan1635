@@ -11,7 +11,7 @@
 ## 🌎 **About Me**
 
 - 📚 I'm currently living in Canada ✈
-- 🔭 I’m currently working on [Nothing](https://www.google.com) 🤖
+- 🔭 I’m currently working on [Zartix](https://discord.gg/Ez5fnpFwQa) 🤖
 - 🌱 I’m currently learning everything 🐱‍👤
 - 📫 How to reach me :
 [![Discord](https://img.shields.io/badge/discord-9cf.svg?&?style=social&logo=discord&logoColor=black)](https://discord.com/users/790408187563999292/) 🔌
